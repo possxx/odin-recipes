@@ -1,0 +1,1 @@
+Simple website with a homepage linking to 3 recipes, each containing a picture, short description, ingredients and method for the recipe.
