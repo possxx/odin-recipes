@@ -1,0 +1,56 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.2rem;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+}
+
+.home-heading {
+    text-align: center;
+}
+
+.recipe-heading {
+    color: blue;
+    background-color: transparent;
+}
+
+h2 {
+    text-align: center;
+}
+
+.center-text {
+    text-align: center;
+}
+
+#m-c-singredients {
+    text-align: left;
+}
+
+.align-ingredients {
+    text-align: left;
+}
+
+a {
+    background-color: black;
+    color: white;
+}
+
+.default-anchor {
+    background-color: inherit;
+    color: inherit;
+}
+
+.img-align {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ol-align {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
